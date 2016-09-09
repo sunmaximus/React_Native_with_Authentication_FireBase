@@ -1,0 +1,22 @@
+dependencies: \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTTabBar.m \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTTabBar.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTEventDispatcher.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTBridge.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTBridgeDelegate.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTJavaScriptLoader.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTBridgeModule.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTDefines.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTFrameUpdate.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTInvalidating.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTLog.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTAssert.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTTabBarItem.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTComponent.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Base/RCTUtils.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTView.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTBorderStyle.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTPointerEvents.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTViewControllerProtocol.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/RCTWrapperViewController.h \
+  /Users/sonnguyen/Desktop/ZwiftPay/Chat/node_modules/react-native/React/Views/UIView+React.h
