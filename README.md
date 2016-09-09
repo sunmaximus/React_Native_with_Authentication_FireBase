@@ -1,11 +1,6 @@
 # React_Native_with_Authentication_FireBase
 
-# React_with_YouTube_API
-
-
-# First_Project_React_Redux
-
-This project is from a code a long course with [Stephen Grider](https://github.com/stephengrider) on [Udemy](https://www.udemy.com/react-redux/)
+This project is from a code a long course with [David Katz](https://github.com/15Dkatz/) on [Udemy](https://www.udemy.com/react-native-build-your-own-mobile-apps)
 
 * To Begin:
 
@@ -22,7 +17,20 @@ This project is from a code a long course with [Stephen Grider](https://github.c
 * Run Project:
 
 ```
-> $ npm start
+> $ react-native start
 ```
+
+* Run iOS
+
+```
+> $ react-native run-ios
+```
+
+ * Run Android  
+  
+```
+> $ react-native run-android
+```
+
 
 * Result:
