@@ -34,3 +34,11 @@ This project is from a code a long course with [David Katz](https://github.com/1
 
 
 * Result:
+
+<p>
+  <img  src="https://raw.githubusercontent.com/sunmaximus/React_Native_with_Authentication_FireBase/master/Login.png">
+</p>
+
+<p>
+  <img  src="https://raw.githubusercontent.com/sunmaximus/React_Native_with_Authentication_FireBase/master/Home.png">
+</p>
